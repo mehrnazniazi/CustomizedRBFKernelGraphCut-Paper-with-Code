@@ -10,6 +10,7 @@ Given that the image energy can be a suitable factor to determine the degree of 
 
 
 If you find this work useful in your research, please consider citing the following paper:
+
 M. Niazi, K. Rahbar, M. Sheikhan, and M. Khademi, "Customized RBF kernel graph-cut for weak boundary image segmentation," Signal, Image Video Process., pp. 1–9, Mar. 2023.
 
 You can access the paper at https://link.springer.com/article/10.1007/s11760-023-02546-7

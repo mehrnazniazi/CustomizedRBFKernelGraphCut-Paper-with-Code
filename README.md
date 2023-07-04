@@ -1,4 +1,4 @@
-# CustomizedRBFKernelGraphCut-Paper-With-Code
+# CustomizedRBFKernelGraphCut-Paper-with-Code
 Customized RBF Kernel Graph-Cut for Weak Boundary Image Segmentation
 
 This repository presents an implementation of the Radius-based Function (RBF) Kernel Graph Cut algorithm, which has shown promising results in image segmentation tasks. However, traditional RBF approaches struggle to accurately segment images with weak boundaries, such as cellular images, where distinguishing regions with narrow and close boundaries is challenging.
